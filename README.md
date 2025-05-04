@@ -2,6 +2,8 @@
 
 This repository contains a collection of Python scripts designed to interact with the **Herafi Testnet**, a high-performance blockchain test network. The main script, main.py, serves as a user-friendly command-line interface (CLI) to execute various operations on the Herafi Testnet, such as claiming faucet tokens, swapping tokens, managing vaults, and providing/removing liquidity. Built with web3.py, the scripts support asynchronous execution and offer bilingual output (English and Vietnamese) for enhanced user interaction.
 
+Faucet: [Herafi Testnet Faucet](https://testnet.herafi.xyz/faucet)
+
 ## Features Overview
 
 ### General Features
