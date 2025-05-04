@@ -54,7 +54,6 @@ nano pvkey.txt
 ```sh
 nano proxies.txt
 ```
-
 4. **Run:**
 - Open cmd or Shell, then run command:
 ```sh
