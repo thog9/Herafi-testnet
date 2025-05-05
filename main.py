@@ -75,6 +75,7 @@ async def cmd_exit(language: str):
 # Script map
 SCRIPT_MAP = {
     "faucet": run_faucet,
+    "faucetmax": run_faucetmax,
     "swap": run_swap,
     "vault": run_vault,
     "liquidity": run_liquidity,
